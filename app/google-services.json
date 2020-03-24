@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90893203460",
+    "firebase_url": "https://newtask-852be.firebaseio.com",
+    "project_id": "newtask-852be",
+    "storage_bucket": "newtask-852be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90893203460:android:42f67c4179096ddadbdd51",
+        "android_client_info": {
+          "package_name": "com.example.newtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90893203460-dkctoutv9jukv161oeb63ucghs2gsvis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpN6JGk4CLlNpPdLnj-ATLCOGvWJa9-JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90893203460-dkctoutv9jukv161oeb63ucghs2gsvis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
